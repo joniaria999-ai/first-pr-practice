@@ -1,4 +1,4 @@
-# first-pr-practice
+Ini percobaan PR kedua saya.
 Practice repo for my first pull request
 
 ## About
